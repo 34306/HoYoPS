@@ -1,7 +1,7 @@
 TARGET := iphone:clang:latest:16.0
-INSTALL_TARGET_PROCESSES = hkrpg
+#INSTALL_TARGET_PROCESSES = hkrpg
 
-THEOS_PACKAGE_SCHEME = roothide
+#THEOS_PACKAGE_SCHEME = rootless
 
 include $(THEOS)/makefiles/common.mk
 

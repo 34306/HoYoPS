@@ -1,11 +1,9 @@
-Package: com.bidev.hoyops
-Name: HoYoPS
-Version: 1.0.0
+Package: com.34306.hoyops
+Name: HoYoPS (GI HSR)
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Connect to private servers for a certain anime game.
-Maintainer: biDev
-Author: biDev
+Maintainer: Little 34306
+Author: 34306
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Depiction: https://bid3v.github.io/repo/depictions/hoyops.html
-Sileodepiction: https://bid3v.github.io/repo/depictions/sileo/hoyops.json

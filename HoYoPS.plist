@@ -1,1 +1,8 @@
-{ Filter = { Bundles = ( "com.HoYoverse.hkrpgoversea" ); }; }
+{
+	Filter = {
+		Bundles = (
+			"com.HoYoverse.hkrpgoversea",
+			"com.miHoYo.GenshinImpact",
+		);
+	};
+}
